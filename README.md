@@ -4,7 +4,7 @@
 Analyzing publicly available data on traffic accidents in NYC from 2009-2016 (work in progress).
 
 ### Documents:  
-preprocess.py contains functions to clean up or preprocess string or group data
+preprocess.py contains functions to clean up or preprocess string or group data  
 Accidents.ipynb contains project workflow
 
 ---
